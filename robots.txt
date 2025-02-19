@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://manilaclub.github.io/news/sitemap.xml
